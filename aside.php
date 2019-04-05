@@ -5,5 +5,5 @@
 
     <p class="text-right"> Vous êtes fan de lecture ? <br>
         Continuez la discussion<br>
-        sur <a href="index.php"> le blog de Gigastore</a></p>
+        sur <a href="index.php"> le blog de Gigastore !</a></p>
 </div>
