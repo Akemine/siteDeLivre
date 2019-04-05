@@ -1,0 +1,24 @@
+.text-green {
+    color: #59960c;
+}
+
+.text-red {
+    color: #e2407a;
+}
+
+.text-grey {
+    color: #b8babbcf;
+}
+
+.verticaltext_content {
+    -webkit-transform: rotate(-10deg);
+}
+
+.bg-green-site {
+    background-color: #59960c !important;
+}
+
+* {
+    cursor: url(http://sd-1.archive-host.com/membres/up/103617246114893015/curseur/fete/paques/curseur-paques-8.cur), auto;
+    font-family: 'Indie Flower', cursive;
+}
